@@ -1,0 +1,42 @@
+*{
+margin:0;
+padding:0;
+}
+#first{
+
+}
+.contaner{
+max-width: 1170px;
+margin:50px auto;
+
+}
+.full-width{
+
+}
+.logo{
+
+float:left;
+width:30%
+}
+.menu{
+float:left;
+width:70%;
+
+}
+.menu ul{
+
+}
+.menu ul li{
+list-style: none;
+float: left;
+margin:50px 0px;
+padding-left:10px ;
+
+}
+.menu ul li a{
+font-size: 20px;
+padding:10px 10px;
+text-decoration:none;
+color:red;
+background-color: yellow;
+}
